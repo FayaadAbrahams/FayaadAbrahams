@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hey! This is my GitHub Profile, where I am always learning as much as possible.👋
 
-<!--
-**FayaadAbrahams/FayaadAbrahams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
