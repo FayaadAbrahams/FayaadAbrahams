@@ -1,4 +1,4 @@
-### Hi! This is my GitHub Profile, where I am always learning or pushing to try new things as much as possible.👋
+### Hi! This is my GitHub Profile, where I am always learning or pushing to try new things as much as I can.👋
 
 - 🔭 I’m currently working on Robotics and Process Automation (RPA) for DigiBlu!
 - 📚 I’m currently learning C# and Angular Frameworks!
