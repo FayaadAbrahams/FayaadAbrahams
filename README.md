@@ -1,7 +1,7 @@
 ### Hi! This is my GitHub Profile, where I am always learning or pushing to try new things as much as I can.👋
 
 - 🔭 I’m currently working on Robotics and Process Automation (RPA) for DigiBlu!
-- 📚 I’m currently learning C# and Angular Frameworks!
+- 📚 I’m currently learning AWS!
 - 📫 How to reach me: 218221630@mycput.ac.za 
 - 🏃‍♂️ Fun fact: I've studied at CPT for my diploma in ICT - I currently am pursuing an Advanced Diploma as well!
 
