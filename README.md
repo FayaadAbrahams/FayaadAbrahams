@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Robotics and Process Automation (RPA) for DigiBlu!
 - 📚 I’m currently learning AWS!
-- 📫 How to reach me: 218221630@mycput.ac.za 
+- 📫 How to reach me: fayaad.abrahams1@gmail.com
 - 🏃‍♂️ Fun fact: I've studied at CPT for my diploma in ICT - I currently am pursuing an Advanced Diploma as well!
 
 
